@@ -41,7 +41,7 @@ This a list things you need to use this tool
 
 2. Extract the downloaded zip somewhere safe
 
-3. Copy following files to your USB drive: `autorun.inf`, `launch.bat`, `hide.vbs`, `TDSUSB.ico`, and for 64 bit operating systems use `TDSUSB.exe` and for 32 bit operating systems use `TDSUSBx32.exe`. To make it almost undetectable use the invisible versions, but they don't work on all computers.
+3. Copy following files to your USB drive: `autorun.inf`, `TDSUSB.ico`, and for 64 bit operating systems use `TDSUSB.exe` and for 32 bit operating systems use `TDSUSBx32.exe`. To make it almost undetectable use the invisible versions, but they don't work on all computers.
 
 4. Open `autorun.inf` in notepad and replace `<version here>` with the exe you chose in the last step
 
