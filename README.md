@@ -48,10 +48,6 @@ This a list things you need to use this tool
 
 Just plug in the USB to the victim's pc and it should start the program! if it doesn't click `TDSUSB.exe` to start it. To retrieve the data go to your drive like `"C:\TDSUSB\"`. Replace `C:` with your actual drive letter.
 
-### Creating A Pull Request
-
-
-
 ## License
 
 Distributed under the MIT License. See [LICENSE](https://github.com/colbychittenden/TDSUSB/blob/main/LICENSE.md) for more information.
