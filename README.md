@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/colbychittenden/TDSUSB">
-    <img src="img/TDSUSB.ico" alt="Logo" width="80" height="80">
+  <a>
+    <img src="TDSUSB.ico" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">TDSUSB</h3>
