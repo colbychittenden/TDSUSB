@@ -20,7 +20,7 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](screenshot.png)
 
 TDUSB (The data stealing USB), is a tool for windows **ONLY** and when plugged in will capture information about the user, system, and even steal files!
 
