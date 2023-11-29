@@ -10,7 +10,7 @@
     The data stealing USB
     <br/>
     <br/>
-    ## **THIS IS FOR EDUCATIONAL USE ONLY**
+    **THIS IS FOR EDUCATIONAL USE ONLY**
     <br/>
     <br/>
     <a href="https://github.com/colbychittenden/TDSUSB/issues">Report Bug</a>
